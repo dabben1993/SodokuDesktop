@@ -5,6 +5,7 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+import sodoku.userinterface.IUserIntefaceContract;
 
 import java.io.IOException;
 
