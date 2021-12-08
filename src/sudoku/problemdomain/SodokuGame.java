@@ -1,6 +1,6 @@
-package sodoku.problemdomain;
+package sudoku.problemdomain;
 
-import sodoku.constants.GameState;
+import sudoku.constants.GameState;
 
 import java.io.Serializable;
 

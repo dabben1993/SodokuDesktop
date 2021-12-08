@@ -1,4 +1,4 @@
-package sodoku.problemdomain;
+package sudoku.problemdomain;
 import java.util.Objects;
 
 public class Coordinates {
