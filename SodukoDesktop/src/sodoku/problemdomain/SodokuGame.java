@@ -1,5 +1,7 @@
 package sodoku.problemdomain;
 
+import sodoku.constants.GameState;
+
 import java.io.Serializable;
 
 public class SodokuGame implements Serializable {
